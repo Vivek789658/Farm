@@ -1,0 +1,182 @@
+[
+    {
+        "crop": "Tomato #124",
+        "matchedProduct": {
+            "title": "Fresh Organic Tomato Box",
+            "price": "19,000 KRW",
+            "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/124"
+        }
+    },
+    {
+        "crop": "Orr #412",
+        "matchedProduct": {
+            "title": "Premium Orr Fruit Basket",
+            "price": "25,000 KRW",
+            "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/412"
+        }
+    },
+    {
+        "crop": "Carrot #003",
+        "matchedProduct": {
+            "title": "Organic Carrots (1kg)",
+            "price": "8,500 KRW",
+            "image": "https://images.unsplash.com/photo-1447175008436-054170c2e979?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/003"
+        }
+    },
+    {
+        "crop": "Lettuce #215",
+        "matchedProduct": {
+            "title": "Crispy Green Lettuce",
+            "price": "4,000 KRW",
+            "image": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/215"
+        }
+    },
+    {
+        "crop": "Potato #676",
+        "matchedProduct": {
+            "title": "Golden Potatoes 5kg",
+            "price": "13,000 KRW",
+            "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/676"
+        }
+    },
+    {
+        "crop": "Strawberry #289",
+        "matchedProduct": {
+            "title": "Sweet Strawberries Pack",
+            "price": "22,000 KRW",
+            "image": "https://images.unsplash.com/photo-1543528176-61b239494933?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/289"
+        }
+    },
+    {
+        "crop": "Apple #001",
+        "matchedProduct": {
+            "title": "Red Apple Basket",
+            "price": "18,500 KRW",
+            "image": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/001"
+        }
+    },
+    {
+        "crop": "Spinach #132",
+        "matchedProduct": {
+            "title": "Fresh Spinach Bunch",
+            "price": "5,200 KRW",
+            "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/132"
+        }
+    },
+    {
+        "crop": "Cucumber #567",
+        "matchedProduct": {
+            "title": "Farm Cucumbers (3pcs)",
+            "price": "3,700 KRW",
+            "image": "https://images.unsplash.com/photo-1589621316382-008455b857cd?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/567"
+        }
+    },
+    {
+        "crop": "Corn #111",
+        "matchedProduct": {
+            "title": "Sweet Corn Pack",
+            "price": "7,000 KRW",
+            "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/111"
+        }
+    },
+    {
+        "crop": "Peach #214",
+        "matchedProduct": {
+            "title": "Juicy Peach Box",
+            "price": "26,000 KRW",
+            "image": "https://images.unsplash.com/photo-1595145610550-6f02434c45c0?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/214"
+        }
+    },
+    {
+        "crop": "Pepper #999",
+        "matchedProduct": {
+            "title": "Red Hot Chili Peppers",
+            "price": "9,000 KRW",
+            "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/999"
+        }
+    },
+    {
+        "crop": "Onion #245",
+        "matchedProduct": {
+            "title": "Yellow Onions 3kg",
+            "price": "10,000 KRW",
+            "image": "https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/245"
+        }
+    },
+    {
+        "crop": "Garlic #456",
+        "matchedProduct": {
+            "title": "Pure Garlic Bulbs",
+            "price": "6,800 KRW",
+            "image": "https://images.unsplash.com/photo-1615477550927-6ec8445fcf2d?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/456"
+        }
+    },
+    {
+        "crop": "Pumpkin #888",
+        "matchedProduct": {
+            "title": "Sweet Pumpkin Slice",
+            "price": "12,300 KRW",
+            "image": "https://images.unsplash.com/photo-1570586437263-ab629fccc818?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/888"
+        }
+    },
+    {
+        "crop": "Watermelon #321",
+        "matchedProduct": {
+            "title": "Large Summer Watermelon",
+            "price": "29,500 KRW",
+            "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/321"
+        }
+    },
+    {
+        "crop": "Broccoli #620",
+        "matchedProduct": {
+            "title": "Green Broccoli Head",
+            "price": "6,000 KRW",
+            "image": "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/620"
+        }
+    },
+    {
+        "crop": "Zucchini #777",
+        "matchedProduct": {
+            "title": "Organic Zucchini",
+            "price": "4,500 KRW",
+            "image": "https://images.unsplash.com/photo-1596321708571-c159a7f43438?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/777"
+        }
+    },
+    {
+        "crop": "Mango #009",
+        "matchedProduct": {
+            "title": "Golden Mango Box",
+            "price": "27,800 KRW",
+            "image": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/009"
+        }
+    },
+    {
+        "crop": "Beetroot #535",
+        "matchedProduct": {
+            "title": "Fresh Beetroot Pack",
+            "price": "9,500 KRW",
+            "image": "https://images.unsplash.com/photo-1593805623068-3c139a7f5c47?auto=format&fit=crop&w=800&q=80",
+            "buyLink": "https://your-mockshop.com/product/535"
+        }
+    }
+]
